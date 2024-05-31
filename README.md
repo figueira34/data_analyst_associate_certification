@@ -1,2 +1,1 @@
-# data_analyst_associate_certification
-Data Analyst Associate Certificate
+# Data Analyst Associate Certificate
